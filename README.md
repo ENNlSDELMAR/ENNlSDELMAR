@@ -13,7 +13,8 @@
 <details><summary style="font-size: 13px;" class="mb8"><u>blinkies</u> </summary>
 
 <p>
-this is a wip
+this is a wip<br>
+
 <img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_5c16c8af4b34b65ec829f4efe1692376_3ce9e5cc_250.webp"><img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_789f4641a7c64159e19b6f7ab7a2492e_8d9e6f53_250.webp"><img src="https://file.garden/Zvc9-_BkGl48gASt/ohioisforlovers2.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/proudposer.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_bb04689192042689c842b6473db733b7_5c324bb5_250.webp"><img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_9d1c855ef88dd8b260099afcd004c1b5_18b51ce4_250.webp"><img src="https://file.garden/Zvc9-_BkGl48gASt/beltblinkie.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_e6e5560fc6219fa87f39dd73e902a886_2dbf0f72_250.webp"><img src="https://file.garden/Zvc9-_BkGl48gASt/regretnothing.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/c59.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/s11.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/w1.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/c58.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/l3.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/q29.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/q30.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/y8.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/x45.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/x27.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/x53.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/t6.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/t5.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/u17.gif"><img src="https://file.garden/Zvc9-_BkGl48gASt/z20.gif">
 
 </p>
