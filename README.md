@@ -1,4 +1,4 @@
-
+<img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_35c11451945517b94d17ce6a5f84e0e3_d68c91ae_1280.png">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31blrcsa5a2jfah66gxcy2gdm6he&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31blrcsa5a2jfah66gxcy2gdm6he&redirect=true) <img src="https://file.garden/Zvc9-_BkGl48gASt/8ef0592268e15e3f1dc99dfb8b349e5a-removebg-preview.png"><br>
 
@@ -23,4 +23,7 @@
 
 
 <br>
+
+<img src="https://file.garden/Zvc9-_BkGl48gASt/tumblr_35c11451945517b94d17ce6a5f84e0e3_d68c91ae_1280.png">
+
 
